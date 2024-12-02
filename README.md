@@ -1,6 +1,6 @@
 ## Lavash
 
-Реализация аналога shell под названием lavash на языке C++.
+Simplified shell analogue realization in C++ called Lavash.
 
-## Запуск
+## Run
  `make lavash "arg"`
